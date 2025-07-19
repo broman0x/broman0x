@@ -10,11 +10,9 @@
 ---
 
 ### 🧙‍♂️ About Me
- 
-- 🚀 **Mission:** I hunt and share the best software already available online — 100% free, always.
-- 💯 **Promise:** I never charge, and I never will.
-- 🌱 **Learning:** AI integrations, and Web3 development
-- 🎯 **Current Focus:** Automating tasks and enhancing user experiences
+
+- 🌱 **Currently Learning:** AI integration, Web3 development, and Full-Stack Development  
+- 🎯 **Current Focus:** Improving programming skills and building real-world web-based projects  
 - 📫 **Contact:** [business.emanpedia@yahoo.com](mailto:business.emanpedia@yahoo.com)
 
 ---
@@ -32,14 +30,24 @@
 
 ### 📺 Connect with Me
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/broman0x)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bukaneman)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/broman0x)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/bromanprjkt)
+<p align="center">
+  <a href="https://www.youtube.com/c/broman0x">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://t.me/bukaneman">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/broman0x">
+    <img src="https://img.shields.io/badge/GitHub-broman0x-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/bromanprjkt">
+    <img src="https://img.shields.io/badge/GitHub-bromanprjkt-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-### 📈 GitHub Stats Broman0x
+### 📈 GitHub Stats – broman0x
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=broman0x&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -49,8 +57,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=broman0x&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
 
-### 📈 GitHub Stats BromanPrjkt
+### 📈 GitHub Stats – bromanprjkt
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bromanprjkt&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
@@ -58,5 +68,5 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bromanprjkt&layout=compact&theme=radical" alt="Top Languages" />
 </p>
----
 
+---
