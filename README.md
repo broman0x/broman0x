@@ -4,17 +4,16 @@
 <h3 align="center">Also known as <span style="color:#00FFAA">EMAN</span></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=I'm+Batman+Who+Helps+You+Navigate+the+Code+Forest" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=I'm+Broman+Who+Helps+You+Navigate+the+Code" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧙‍♂️ About Me
-
-- 🦇 **Alias:** I'm Batman Who Helps You 
+ 
 - 🚀 **Mission:** I hunt and share the best software already available online — 100% free, always.
 - 💯 **Promise:** I never charge, and I never will.
-- 🌱 **Learning:** Advanced Python, AI integrations, and Web3 development
+- 🌱 **Learning:** AI integrations, and Web3 development
 - 🎯 **Current Focus:** Automating tasks and enhancing user experiences
 - 📫 **Contact:** [business.emanpedia@yahoo.com](mailto:business.emanpedia@yahoo.com)
 
@@ -22,14 +21,12 @@
 
 ### 🛠️ Skills
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Termux](https://img.shields.io/badge/-Termux-333333?style=flat&logo=gnome-terminal)
 
 ---
 
