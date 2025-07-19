@@ -7,6 +7,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=I'm+Broman+Who+Helps+You+Navigate+the+Code" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=broman0x&label=Profile+Views&color=00FFAA&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🧙‍♂️ About Me
@@ -25,6 +29,15 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+
+---
+
+### 🏆 GitHub Trophy Showcase
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=broman0x&theme=radical&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bromanprjkt&theme=radical&no-bg=true&no-frame=true" />
+</p>
 
 ---
 
