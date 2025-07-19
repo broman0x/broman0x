@@ -4,7 +4,7 @@
 <h3 align="center">Also known as <span style="color:#00FFAA">EMAN</span></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=I'm+Broman+Who+Helps+You+Navigate+the+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=I'm+Broman+Who+Helps+You+Navigate+the+Code" alt="Typing SVG" />
 </p>
 
 ---
