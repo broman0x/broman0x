@@ -1,5 +1,3 @@
-<!-- GitHub Profile README -->
-
 <h1 align="center">I'm <span style="color:#00FFAA">BROMAN</span> 👋</h1>
 <h3 align="center">Also known as <span style="color:#00FFAA">EMAN</span></h3>
 
