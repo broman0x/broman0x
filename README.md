@@ -51,6 +51,7 @@
 <div align="center">
 
   <img src="https://github-widgetbox.vercel.app/api/profile?username=broman0x&data=followers,repositories,stars&theme=darkmode"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=bromanprjkt&data=followers,repositories,stars&theme=darkmode"/>
 
   <br><br>
 
