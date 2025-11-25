@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Broman%20Prjkt&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20Cupu%20|%20Backend%20Developer%20Cupu%20|%20API%20Specialist%20|%20Prompt%20Engineer&descAlignY=55&descSize=15"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Broman%20Prjkt&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20Cupu%20|%20API%20Specialist%20|%20Prompt%20Engineer&descAlignY=55&descSize=15"/>
 </div>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/broman0x">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Tech+Educator;Open+Source+Contributor"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Open+Source+Contributor"/>
   </a>
 </p>
 
