@@ -10,7 +10,7 @@
 <div align="center">
 
 ### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=js,aws,linux,git,nodejs,golang,neovim" />
+<img src="https://skillicons.dev/icons?i=js,aws,linux,git,nodejs,golang,neovim,gcp,arch" />
 
 ### 📊 GitHub Stats
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=broman0x&theme=tokyonight" width="70%"/>
