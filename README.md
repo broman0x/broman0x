@@ -13,11 +13,11 @@
 <img src="https://skillicons.dev/icons?i=js,aws,linux,git,nodejs,golang,neovim,gcp,arch" />
 
 ### 📊 GitHub Stats
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=broman0x&theme=tokyonight" width="70%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bromanprjkt&theme=tokyonight" width="70%"/>
 
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=broman0x&theme=tokyonight" width="32%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=broman0x&theme=tokyonight" width="32%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bromanprjkt&theme=tokyonight" width="32%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bromanprjkt&theme=tokyonight" width="32%"/>
 </p>
 
 
